@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @abosaleh2050
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# PS4 Exploit Host
+Firmwares: `5.05` `6.72` `7.XX` `8.XX` `9.XX` `10.XX` `11.XX` `12.XX` `13.00`
 
-<!---
-abosaleh2050/abosaleh2050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Steps:
+
+- In the console browser go to: https://gamerhack.github.io/
+- Select the firmware of your console.
+- Immediately all content will be installed in the offline cache, once finished exit the browser and turn off the Internet.
+- Then go back to Access Browser and Enjoy.
